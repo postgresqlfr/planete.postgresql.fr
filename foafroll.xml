@@ -1,0 +1,289 @@
+<?xml version="1.0"?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:rss="http://purl.org/rss/1.0/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+>
+<foaf:Group>
+	<foaf:name>La planete francophone de PostgreSQL</foaf:name>
+	<foaf:homepage>http://planete.postgresql.fr/</foaf:homepage>
+	<rdfs:seeAlso rdf:resource="http://planete.postgresql.fr/foafroll.xml" />
+
+	<foaf:member>
+		<foaf:Agent>
+			<foaf:name>Actualités PostgreSQL.fr</foaf:name>
+			<foaf:weblog>
+				<foaf:Document rdf:about="http://blog.postgresql.fr/index.php">
+					<dc:title>PostgreSQLfr.org</dc:title>
+					<rdfs:seeAlso>
+						<rss:channel rdf:about="http://blog.postgresql.fr/index.php?feed/atom" />
+					</rdfs:seeAlso>
+				</foaf:Document>
+			</foaf:weblog>
+		</foaf:Agent>
+	</foaf:member>
+	<foaf:member>
+		<foaf:Agent>
+			<foaf:name>Adrien Nayrat</foaf:name>
+			<foaf:weblog>
+				<foaf:Document rdf:about="">
+					<dc:title></dc:title>
+					<rdfs:seeAlso>
+						<rss:channel rdf:about="https://blog.anayrat.info/category/linux/postgres/feed/" />
+					</rdfs:seeAlso>
+				</foaf:Document>
+			</foaf:weblog>
+		</foaf:Agent>
+	</foaf:member>
+	<foaf:member>
+		<foaf:Agent>
+			<foaf:name>Base-sql.fr</foaf:name>
+			<foaf:weblog>
+				<foaf:Document rdf:about="">
+					<dc:title></dc:title>
+					<rdfs:seeAlso>
+						<rss:channel rdf:about="http://www.base-sql.fr/?feed=rss2" />
+					</rdfs:seeAlso>
+				</foaf:Document>
+			</foaf:weblog>
+		</foaf:Agent>
+	</foaf:member>
+	<foaf:member>
+		<foaf:Agent>
+			<foaf:name>Christophe Chauvet</foaf:name>
+			<foaf:weblog>
+				<foaf:Document rdf:about="http://blog.kryskool.org">
+					<dc:title>KrysKool.browse(cr, uid, ids, context)</dc:title>
+					<rdfs:seeAlso>
+						<rss:channel rdf:about="http://blog.kryskool.org/feeds/postgresql.rss.xml" />
+					</rdfs:seeAlso>
+				</foaf:Document>
+			</foaf:weblog>
+		</foaf:Agent>
+	</foaf:member>
+	<foaf:member>
+		<foaf:Agent>
+			<foaf:name>Cédric Villemain</foaf:name>
+			<foaf:weblog>
+				<foaf:Document rdf:about="">
+					<dc:title></dc:title>
+					<rdfs:seeAlso>
+						<rss:channel rdf:about="http://blog.2ndquadrant.com/cedrics-fr-planetepostgresql/feed/" />
+					</rdfs:seeAlso>
+				</foaf:Document>
+			</foaf:weblog>
+		</foaf:Agent>
+	</foaf:member>
+	<foaf:member>
+		<foaf:Agent>
+			<foaf:name>Damien Clochard</foaf:name>
+			<foaf:weblog>
+				<foaf:Document rdf:about="http://blog.taadeem.net/">
+					<dc:title>- PGFR</dc:title>
+					<rdfs:seeAlso>
+						<rss:channel rdf:about="http://blog.taadeem.net/feed.pgfr.xml" />
+					</rdfs:seeAlso>
+				</foaf:Document>
+			</foaf:weblog>
+		</foaf:Agent>
+	</foaf:member>
+	<foaf:member>
+		<foaf:Agent>
+			<foaf:name>Dimitri Fontaine</foaf:name>
+			<foaf:weblog>
+				<foaf:Document rdf:about="">
+					<dc:title></dc:title>
+					<rdfs:seeAlso>
+						<rss:channel rdf:about="http://tapoueh.org/rss/postgresqlfr.xml" />
+					</rdfs:seeAlso>
+				</foaf:Document>
+			</foaf:weblog>
+		</foaf:Agent>
+	</foaf:member>
+	<foaf:member>
+		<foaf:Agent>
+			<foaf:name>Guillaume Lelarge</foaf:name>
+			<foaf:weblog>
+				<foaf:Document rdf:about="http://blog.guillaume.lelarge.info/index.php/">
+					<dc:title>gleu's blog - PostgreSQL</dc:title>
+					<rdfs:seeAlso>
+						<rss:channel rdf:about="http://blog.guillaume.lelarge.info/index.php/feed/category/Postgresql/rss2" />
+					</rdfs:seeAlso>
+				</foaf:Document>
+			</foaf:weblog>
+		</foaf:Agent>
+	</foaf:member>
+	<foaf:member>
+		<foaf:Agent>
+			<foaf:name>Jean-Paul Argudo</foaf:name>
+			<foaf:weblog>
+				<foaf:Document rdf:about="">
+					<dc:title></dc:title>
+					<rdfs:seeAlso>
+						<rss:channel rdf:about="http://www.argudo.org/index.php?feed/category/PostgreSQL/rss2" />
+					</rdfs:seeAlso>
+				</foaf:Document>
+			</foaf:weblog>
+		</foaf:Agent>
+	</foaf:member>
+	<foaf:member>
+		<foaf:Agent>
+			<foaf:name>Julien Rouhaud</foaf:name>
+			<foaf:weblog>
+				<foaf:Document rdf:about="https://rjuju.github.io">
+					<dc:title>rjuju's home</dc:title>
+					<rdfs:seeAlso>
+						<rss:channel rdf:about="http://rjuju.github.io/postgresqlfr/feed.xml" />
+					</rdfs:seeAlso>
+				</foaf:Document>
+			</foaf:weblog>
+		</foaf:Agent>
+	</foaf:member>
+	<foaf:member>
+		<foaf:Agent>
+			<foaf:name>Loxodata</foaf:name>
+			<foaf:weblog>
+				<foaf:Document rdf:about="http://www.loxodata.com/post/">
+					<dc:title>Blog Loxodata</dc:title>
+					<rdfs:seeAlso>
+						<rss:channel rdf:about="http://www.loxodata.com/post/index.xml" />
+					</rdfs:seeAlso>
+				</foaf:Document>
+			</foaf:weblog>
+		</foaf:Agent>
+	</foaf:member>
+	<foaf:member>
+		<foaf:Agent>
+			<foaf:name>Nicolas Gollet</foaf:name>
+			<foaf:weblog>
+				<foaf:Document rdf:about="http://blog.ng.pe/">
+					<dc:title>postgresql - Nicolas GOLLET</dc:title>
+					<rdfs:seeAlso>
+						<rss:channel rdf:about="http://blog.ng.pe/tag/postgresql/rss/" />
+					</rdfs:seeAlso>
+				</foaf:Document>
+			</foaf:weblog>
+		</foaf:Agent>
+	</foaf:member>
+	<foaf:member>
+		<foaf:Agent>
+			<foaf:name>Nicolas Thauvin</foaf:name>
+			<foaf:weblog>
+				<foaf:Document rdf:about="http://www.orgrim.net">
+					<dc:title>code. grind. sleep. - PostgreSQL</dc:title>
+					<rdfs:seeAlso>
+						<rss:channel rdf:about="http://www.orgrim.net/postgresql/feed.xml" />
+					</rdfs:seeAlso>
+				</foaf:Document>
+			</foaf:weblog>
+		</foaf:Agent>
+	</foaf:member>
+	<foaf:member>
+		<foaf:Agent>
+			<foaf:name>Philippe Beaudoin</foaf:name>
+			<foaf:weblog>
+				<foaf:Document rdf:about="http://beaud76.blog.free.fr/index.php">
+					<dc:title>De Phil en aiguille - Tag - PostgreSQL-fr</dc:title>
+					<rdfs:seeAlso>
+						<rss:channel rdf:about="http://beaud76.blog.free.fr/index.php?feed/tag/PostgreSQL-fr/rss2" />
+					</rdfs:seeAlso>
+				</foaf:Document>
+			</foaf:weblog>
+		</foaf:Agent>
+	</foaf:member>
+	<foaf:member>
+		<foaf:Agent>
+			<foaf:name>Philippe Florent</foaf:name>
+			<foaf:weblog>
+				<foaf:Document rdf:about="http://pgphil.ovh">
+					<dc:title>pgphil.ovh</dc:title>
+					<rdfs:seeAlso>
+						<rss:channel rdf:about="http://pgphil.ovh/maj.xml" />
+					</rdfs:seeAlso>
+				</foaf:Document>
+			</foaf:weblog>
+		</foaf:Agent>
+	</foaf:member>
+	<foaf:member>
+		<foaf:Agent>
+			<foaf:name>PostgreSQL Fr</foaf:name>
+			<foaf:weblog>
+				<foaf:Document rdf:about="http://www.postgresqlfr.org/_export/xhtml/Accueil">
+					<dc:title></dc:title>
+					<rdfs:seeAlso>
+						<rss:channel rdf:about="http://www.postgresqlfr.org/?q=rss.xml" />
+					</rdfs:seeAlso>
+				</foaf:Document>
+			</foaf:weblog>
+		</foaf:Agent>
+	</foaf:member>
+	<foaf:member>
+		<foaf:Agent>
+			<foaf:name>Rodolphe Quiédeville</foaf:name>
+			<foaf:weblog>
+				<foaf:Document rdf:about="http://blog.rodolphe.quiedeville.org/index.php">
+					<dc:title>One more geek - Mot-clé - postgresql</dc:title>
+					<rdfs:seeAlso>
+						<rss:channel rdf:about="http://blog.rodolphe.quiedeville.org/index.php?feed/tag/postgresql/rss2" />
+					</rdfs:seeAlso>
+				</foaf:Document>
+			</foaf:weblog>
+		</foaf:Agent>
+	</foaf:member>
+	<foaf:member>
+		<foaf:Agent>
+			<foaf:name>Stephane Bortzmeyer</foaf:name>
+			<foaf:weblog>
+				<foaf:Document rdf:about="http://re.rephrase.net/">
+					<dc:title>Blog de Stéphane Bortzmeyer</dc:title>
+					<rdfs:seeAlso>
+						<rss:channel rdf:about="http://re.rephrase.net/filter/?feed=http%3A%2F%2Fwww.bortzmeyer.org%2Ffeed.atom&amp;filter=title%3Apostgresql+OR+title%3ASQL" />
+					</rdfs:seeAlso>
+				</foaf:Document>
+			</foaf:weblog>
+		</foaf:Agent>
+	</foaf:member>
+	<foaf:member>
+		<foaf:Agent>
+			<foaf:name>Sébastien Lardière</foaf:name>
+			<foaf:weblog>
+				<foaf:Document rdf:about="http://sebastien.lardiere.net/blog/index.php/">
+					<dc:title>~/sebl[og] - Postgresql</dc:title>
+					<rdfs:seeAlso>
+						<rss:channel rdf:about="http://sebastien.lardiere.net/blog/index.php/feed/category/Postgresql/rss2" />
+					</rdfs:seeAlso>
+				</foaf:Document>
+			</foaf:weblog>
+		</foaf:Agent>
+	</foaf:member>
+	<foaf:member>
+		<foaf:Agent>
+			<foaf:name>Thomas Reiss</foaf:name>
+			<foaf:weblog>
+				<foaf:Document rdf:about="http://blog.frosties.org/">
+					<dc:title>.: live transmission :. - PostgreSQL</dc:title>
+					<rdfs:seeAlso>
+						<rss:channel rdf:about="http://blog.frosties.org/feed/category/PostgreSQL/rss2" />
+					</rdfs:seeAlso>
+				</foaf:Document>
+			</foaf:weblog>
+		</foaf:Agent>
+	</foaf:member>
+	<foaf:member>
+		<foaf:Agent>
+			<foaf:name>ulhume</foaf:name>
+			<foaf:weblog>
+				<foaf:Document rdf:about="http://artisan.karma-lab.net">
+					<dc:title>Artisan Numérique</dc:title>
+					<rdfs:seeAlso>
+						<rss:channel rdf:about="http://artisan.karma-lab.net/taxonomy/term/1366/feed" />
+					</rdfs:seeAlso>
+				</foaf:Document>
+			</foaf:weblog>
+		</foaf:Agent>
+	</foaf:member>
+
+</foaf:Group>
+</rdf:RDF>

@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<opml version="1.1">
+	<head>
+		<title>La planete francophone de PostgreSQL</title>
+		<dateModified>dim., 28 mai 2017 19:12:09 +0000</dateModified>
+		<ownerName>Association PostgreSQL FR</ownerName>
+		<ownerEmail>contact@postgresql.fr</ownerEmail>
+	</head>
+	
+	<body>
+		<outline type="rss" text="Actualités PostgreSQL.fr" xmlUrl="http://blog.postgresql.fr/index.php?feed/atom" title="PostgreSQLfr.org" />
+		<outline type="rss" text="Adrien Nayrat" xmlUrl="https://blog.anayrat.info/category/linux/postgres/feed/" title="Adrien Nayrat" />
+		<outline type="rss" text="Base-sql.fr" xmlUrl="http://www.base-sql.fr/?feed=rss2" title="Base-sql.fr" />
+		<outline type="rss" text="Christophe Chauvet" xmlUrl="http://blog.kryskool.org/feeds/postgresql.rss.xml" title="KrysKool.browse(cr, uid, ids, context)" />
+		<outline type="rss" text="Cédric Villemain" xmlUrl="http://blog.2ndquadrant.com/cedrics-fr-planetepostgresql/feed/" title="Cédric Villemain" />
+		<outline type="rss" text="Damien Clochard" xmlUrl="http://blog.taadeem.net/feed.pgfr.xml" title="- PGFR" />
+		<outline type="rss" text="Dimitri Fontaine" xmlUrl="http://tapoueh.org/rss/postgresqlfr.xml" title="Dimitri Fontaine" />
+		<outline type="rss" text="Guillaume Lelarge" xmlUrl="http://blog.guillaume.lelarge.info/index.php/feed/category/Postgresql/rss2" title="gleu's blog - PostgreSQL" />
+		<outline type="rss" text="Jean-Paul Argudo" xmlUrl="http://www.argudo.org/index.php?feed/category/PostgreSQL/rss2" title="Jean-Paul Argudo" />
+		<outline type="rss" text="Julien Rouhaud" xmlUrl="http://rjuju.github.io/postgresqlfr/feed.xml" title="rjuju's home" />
+		<outline type="rss" text="Loxodata" xmlUrl="http://www.loxodata.com/post/index.xml" title="Blog Loxodata" />
+		<outline type="rss" text="Nicolas Gollet" xmlUrl="http://blog.ng.pe/tag/postgresql/rss/" title="postgresql - Nicolas GOLLET" />
+		<outline type="rss" text="Nicolas Thauvin" xmlUrl="http://www.orgrim.net/postgresql/feed.xml" title="code. grind. sleep. - PostgreSQL" />
+		<outline type="rss" text="Philippe Beaudoin" xmlUrl="http://beaud76.blog.free.fr/index.php?feed/tag/PostgreSQL-fr/rss2" title="De Phil en aiguille - Tag - PostgreSQL-fr" />
+		<outline type="rss" text="Philippe Florent" xmlUrl="http://pgphil.ovh/maj.xml" title="pgphil.ovh" />
+		<outline type="rss" text="PostgreSQL Fr" xmlUrl="http://www.postgresqlfr.org/?q=rss.xml" title="PostgreSQL Fr" />
+		<outline type="rss" text="Rodolphe Quiédeville" xmlUrl="http://blog.rodolphe.quiedeville.org/index.php?feed/tag/postgresql/rss2" title="One more geek - Mot-clé - postgresql" />
+		<outline type="rss" text="Stephane Bortzmeyer" xmlUrl="http://re.rephrase.net/filter/?feed=http%3A%2F%2Fwww.bortzmeyer.org%2Ffeed.atom&amp;filter=title%3Apostgresql+OR+title%3ASQL" title="Blog de Stéphane Bortzmeyer" />
+		<outline type="rss" text="Sébastien Lardière" xmlUrl="http://sebastien.lardiere.net/blog/index.php/feed/category/Postgresql/rss2" title="~/sebl[og] - Postgresql" />
+		<outline type="rss" text="Thomas Reiss" xmlUrl="http://blog.frosties.org/feed/category/PostgreSQL/rss2" title=".: live transmission :. - PostgreSQL" />
+		<outline type="rss" text="ulhume" xmlUrl="http://artisan.karma-lab.net/taxonomy/term/1366/feed" title="Artisan Numérique" />
+	</body>
+</opml>

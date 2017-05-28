@@ -1,0 +1,12 @@
+#!/bin/bash
+
+# damien : on vide le cache, c'est inutile dans notre cas
+# et ça entraine parfois des problèmes de mises à jour
+
+DIR="/var/www/planete.postgresql.fr"
+
+rm $DIR/planet/examples/cache/*
+
+cd $DIR
+python $DIR/planet.py $DIR/pgfr/config.ini > /dev/null
+
